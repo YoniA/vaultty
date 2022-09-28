@@ -1,4 +1,4 @@
-# vaul**tty** - terminal
+# vaul**tty** - terminal vault
 
 
 vaul**tty** is a terminal-based password manager. 🔐
